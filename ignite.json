@@ -1,0 +1,24 @@
+{
+  "ignition": {
+    "config": {},
+    "timeouts": {},
+    "version": "2.1.0"
+  },
+  "networkd": {},
+  "passwd": {
+    "users": [
+      {
+        "groups": [
+          "wheel",
+          "sudoers"
+        ],
+        "name": "coreosadmin",
+        "passwordHash": "$1$4qcwmGhG$1aUYf55bwXa3BXoYKGwKy.",
+        ],
+        "shell": "/bin/bash"
+      }
+    ]
+  },
+  "storage": {},
+  "systemd": {}
+}
