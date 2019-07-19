@@ -10,7 +10,7 @@
       {
         "groups": [
           "wheel",
-          "sudoers"
+          "sudo"
         ],
         "name": "coreosadmin",
         "passwordHash": "$1$4qcwmGhG$1aUYf55bwXa3BXoYKGwKy.",
