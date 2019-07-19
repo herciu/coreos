@@ -14,6 +14,8 @@
         ],
         "name": "coreosadmin",
         "passwordHash": "$1$4qcwmGhG$1aUYf55bwXa3BXoYKGwKy.",
+        "sshAuthorizedKeys": [
+          "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDUDI4rflnYW1vkA9qXKK0zSyg9Pvfb6XoVWpc1kYI9nzPTA1VHsyGS03zlkMkd9Ngcule3tZHFlxxPhK/mEtcpVBdiyDB9FTw4joztQQjWcKNJmitbWQVkANbvUH5iBYeFgx/HDY0HFMLZXOSY7vPRWvtWa6dqIms6Jr8uM+CKGi/C0zv5qZnROjl48FzSvcFbg3P7YpgcPWOcA6zj53907u0thBRsqDZRBTnw/qM6V51JdGucBJxLkaztsOFNgHK5J1p1vFhQBadFBFF44P9tbLLDXqW3dHyNJPcKJlM/hwqsfXS7pdwuS2w2dteytwYwQFdhxchBI+teHIgCaqqJ alexandru.herciu@gmail.com"
         ],
         "shell": "/bin/bash"
       }
